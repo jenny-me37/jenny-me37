@@ -5,8 +5,12 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Jennifer+%F0%9F%91%8B;Aspiring+Cybersecurity+Analyst;CTF+Player+%7C+Python+Learner+%7C+SOC+Explorer;Always+Learning+%F0%9F%92%AA+Always+Curious" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&fontWeight=700&size=32&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jennifer+%F0%9F%91%8B;Aspiring+Cybersecurity+Analyst;CTF+Player+%7C+Python+Learner+%7C+SOC+Explorer;Always+Learning+%F0%9F%92%AA+Always+Curious"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
