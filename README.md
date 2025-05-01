@@ -1,48 +1,87 @@
-# 💻 Welcome to My GitHub!
+<!-- Cyber Banner -->
+<p align="center">
+  <img src="https://github.com/jenny-me37/jenny-me37/blob/main/8bfd01c18be1b5059bc0d7770d9dabf1.gif"/>
+</p>
 
-Hi there! I'm **Jennifer**, an aspiring **Cybersecurity Analyst** with a strong passion for **ethical hacking**, **network security**, and **threat analysis**. I'm currently diving deep into various aspects of cybersecurity and learning the skills to help secure networks, applications, and systems.
-
-- 🔐 Passionate about protecting systems and defending against cyber threats  
-- 🧠 Always learning: From completing Capture The Flag (CTF) challenges to exploring hands-on labs and real-world tools  
-- 🌱 Currently working on: TryHackMe, Hack The Box, learning Python, and developing my penetration testing skills  
-
----
-
-## 🧰 Tools & Technologies
-
-I work with a variety of tools to explore and tackle cybersecurity challenges:
-
-- 🐍 **Python** – Scripting for automation and analysis  
-- 🐧 **Linux (Kali, Ubuntu)** – My daily driver for penetration testing and cybersecurity tasks  
-- 📡 **Wireshark** – For network traffic analysis and inspection  
-- 🔍 **Nmap** – Performing network scanning and reconnaissance  
-- 🛡️ **Burp Suite** – Web application vulnerability testing  
-- 🔐 **Metasploit Framework** – For exploitation and testing  
-- 💾 **VirtualBox / VMware** – Creating virtual lab environments for testing  
-- 🌐 **OWASP ZAP** – Scanning web applications for security vulnerabilities  
-- 💻 **Command Line (Bash, PowerShell)** – Writing scripts and interacting with the system  
-- 🧪 **TryHackMe / Hack The Box** – Hands-on labs and challenges that enhance my practical skills  
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Jennifer+%F0%9F%91%8B;Aspiring+Cybersecurity+Analyst;CTF+Player+%7C+Python+Learner+%7C+SOC+Explorer;Always+Learning+%F0%9F%92%AA+Always+Curious" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Current Projects
+## 💻 Welcome to My GitHub!
 
-I am constantly pushing myself to develop new skills and tackle complex cybersecurity problems:
-
-- 🌐 **Building a public repository of CTF writeups** – Documenting the methodologies and techniques I learn from solving CTF challenges  
-- 💡 **Learning network scanning & reconnaissance** – Focusing on building strong foundational skills in network discovery and security  
-- 🔐 **Documenting ethical hacking techniques** – Writing and sharing practical guides, writeups, and tutorials on GitHub  
+> 👋 I'm **Jennifer**, an aspiring **Cybersecurity Analyst** passionate about securing digital environments and ethical hacking. I'm diving into real-world security challenges, CTFs, and threat analysis through labs, tools, and scripting.
 
 ---
 
-## 🏆 Recent Achievements
+### 🔥 About Me
 
-Here are some of the key milestones I've accomplished in my cybersecurity journey:
+- 🔐 **Cybersecurity Defender** — Protecting systems from cyber threats
+- 🧠 **Always Learning** — From CTFs to real-world lab simulations
+- 🌱 **Currently Working On** — TryHackMe, Hack The Box, Python, SOC1 training, Linux mastery
 
-- ✅ **Completed the Pre-Security Path on TryHackMe** – Topics include network security, Linux fundamentals, and basic exploitation  
-- 🚩 **Solved 10+ CTF challenges** – In areas like privilege escalation, OSINT (Open Source Intelligence), web exploitation, and basic forensics  
-- 👨‍🎓 **Enrolled in multiple cybersecurity programs**:
-  - Cisco Networking Academy (**CyberOps Associate**)  
-  - ISC2 **Certified in Cybersecurity (CC)**  
-  - **Google Cybersecurity Professional Certificate**  
-  - TryHackMe **learning paths** – Advancing my penetration testing skills and real-world cybersecurity knowledge  
+---
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Kali%20%2F%20Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nmap-3dcdcd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-001A57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirtualBox%2FVMware-183A61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-7c7c7c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+</p>
+
+---
+
+### 🛠️ Current Projects
+
+- ✍️ **CTF Writeups** – Sharing walkthroughs and solutions
+- 📚 **Cybersecurity Notes Wiki** – Organized notes from labs and training
+- 🧪 **Network Scanning Tools** – Practicing scanning and enumeration
+- 🐍 **Python Scripts** – Automating tasks for recon and analysis
+
+---
+
+### 🏆 Recent Achievements
+
+- ✅ Completed **TryHackMe Pre-Security**, now working on **SOC1** and **Pentesting Paths**
+- 🚩 Solved over **10+ CTF challenges** (privilege escalation, OSINT, web exploitation)
+- 👨‍🎓 Actively enrolled in:
+  - Cisco Networking Academy: **CyberOps Associate**
+  - ISC2: **Certified in Cybersecurity (CC)**
+  - Google: **Cybersecurity Professional Certificate**
+  - TryHackMe: SOC1 and Pentesting learning paths
+
+---
+
+### ⚡ Fun Fact
+
+> I love breaking things just to understand how to fix them better 🔧💥
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenny-me37&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenny-me37&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jenny-me37&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- 💬 [LinkedIn](https://linkedin.com/in/jennifer-mutanen)
+- 📧 **Email:** jennifer.mutanen88@gmail.com
